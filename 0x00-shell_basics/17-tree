@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 mkdir {welcome,welcome/to,welcome/to/holberton}
-=======
-mkdir welcome
-mkdir welcome/to welcome/to/holberton
->>>>>>> 68281f28b32a4609a51d21229680d911b32bc91a
